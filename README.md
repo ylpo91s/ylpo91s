@@ -17,12 +17,14 @@
   <img src="https://media.giphy.com/media/26n6F9h9J0eEEgJ1u/giphy.gif" alt="Anime character coding" width="700" />
 </div>
 
-I'm a **Software Engineer** building scalable backend systems and APIs. Specializing in **React.js, Node.js, and Java**.
+I'm a **Software Engineer** passionate about designing and building reliable, scalable software that solves real-world problems.
 
-- 🔭 I’m currently working as a **Software Engineer** and contributing to both **frontend** and **backend** development for building web applications.
-- 🌱 I’m passionate about **AI** and currently exploring **machine learning** and **AI-powered solutions**.
-- 🎯 My goal is to **build AI-powered products and applications** that make a real-world impact and solve meaningful problems.
-- ⚡ In my free time, I solve coding challenges, build side projects, and read tech articles to stay updated with industry trends.
+- 🚀 I build **scalable backend systems, RESTful APIs, and full-stack web applications** with a focus on performance, security, and maintainability.
+- 💻 I specialize in **React.js, Node.js, Express.js, and Java**, and work comfortably across both frontend and backend development.
+- 🗄️ I enjoy designing efficient data-driven solutions using **MySQL and MongoDB**, as well as integrating third-party services and APIs.
+- 🧠 I’m continuously learning about **system design, cloud technologies, artificial intelligence, and machine learning**.
+- 🤝 I value clean code, thoughtful architecture, collaboration, and turning ideas into polished products.
+- ⚡ Outside of coding, I solve programming challenges, build side projects, and explore the latest developments in technology.
 
 ---
 
