@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://tenor.com/view/matrix-code-matrix-code-encryption-encrypted-gif-5662740" target="_blank">
-    <img src="https://media.tenor.com/9vRA7hF5uWAAAAAC/matrix-code.gif" alt="Matrix code animation" width="900" />
+  <a href="https://giphy.com/gifs/code-matrix-wallpaper-A06UFEx8jxEwU" target="_blank">
+    <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" alt="Matrix code animation" width="900" />
   </a>
 </div>
 
@@ -48,7 +48,7 @@ I'm a **Software Engineer** passionate about designing and building reliable, sc
 ## 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylpo91s&layout=compact&theme=dark&langs_count=8&hide_border=true&cache_seconds=86400" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylpo91s&layout=compact&theme=dark&langs_count=8&hide_border=true&cache_seconds=86400" alt="Most used programming language" />
 </div>
 
 ---
