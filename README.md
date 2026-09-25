@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Animated cat coding" width="900" />
+  <a href="https://tenor.com/view/matrix-code-matrix-code-encryption-encrypted-gif-5662740" target="_blank">
+    <img src="https://media.tenor.com/9vRA7hF5uWAAAAAC/matrix-code.gif" alt="Matrix code animation" width="900" />
+  </a>
 </div>
 
 <div align="center">
