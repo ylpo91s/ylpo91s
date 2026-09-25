@@ -1,14 +1,14 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Animated cat coding" width="900" />
+</div>
+
+<div align="center">
   <h1>Hey 👋, I'm Mohamed Faisal.</h1>
   <h3>Full Stack Developer | React.js, Node.js, Express.js | MySQL, MongoDB</h3>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ylpo91s&label=Profile%20views&color=0e75b6&style=flat&base=1000&abbreviated=true" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Animated cat coding" width="900" />
 </div>
 
 ## 👨‍💻 About Me
