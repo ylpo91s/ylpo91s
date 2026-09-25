@@ -50,7 +50,7 @@ I'm a **Software Engineer** passionate about designing and building reliable, sc
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ylpo91s&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ylpo91s"
     alt="Top Languages"
   />
 </div>
