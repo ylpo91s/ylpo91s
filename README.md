@@ -8,13 +8,13 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26n6F9h9J0eEEgJ1u/giphy.gif" alt="Anime character coding" width="900" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Animated cat coding" width="900" />
 </div>
 
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26n6F9h9J0eEEgJ1u/giphy.gif" alt="Anime character coding" width="700" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Animated cat coding" width="700" />
 </div>
 
 I'm a **Software Engineer** passionate about designing and building reliable, scalable software that solves real-world problems.
@@ -50,7 +50,7 @@ I'm a **Software Engineer** passionate about designing and building reliable, sc
 ## 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylpo91s&layout=compact&theme=dark" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylpo91s&layout=compact&theme=dark&langs_count=8&hide_border=true&cache_seconds=86400" alt="Most used programming languages" />
 </div>
 
 ---
