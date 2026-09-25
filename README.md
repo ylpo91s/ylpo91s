@@ -48,9 +48,7 @@ I'm a **Software Engineer** passionate about designing and building reliable, sc
 
 ## 📊 Most Used Languages
 
-<div align="center">
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ylpo91s&layout=compact&theme=dark&langs_count=8&hide_border=true)
-</div>
+https://github-readme-stats.vercel.app/api/top-langs/?username=ylpo91s&layout=compact&theme=dark&langs_count=8&hide_border=true
 
 ---
 
