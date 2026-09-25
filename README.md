@@ -1,11 +1,7 @@
 <div align="center">
-  <a href="https://tenor.com/view/matrix-code-matrix-code-encryption-encrypted-gif-5662740" target="_blank">
   <a href="https://giphy.com/gifs/code-matrix-wallpaper-A06UFEx8jxEwU" target="_blank">
-    <img src="https://media.tenor.com/9vRA7hF5uWAAAAAC/matrix-code.gif" alt="Matrix code animation" width="900" />
     <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" alt="Matrix code animation" width="900" />
   </a>
-  </a>
-</div>
 </div>
 
 <div align="center">
