@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://giphy.com/gifs/code-matrix-wallpaper-A06UFEx8jxEwU" target="_blank">
-    <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" alt="Matrix code animation" width="900" height="220" />
+    <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" alt="Matrix code animation" width="900" height="260" />
   </a>
 </div>
 
