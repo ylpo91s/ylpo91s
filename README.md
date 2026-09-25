@@ -2,8 +2,11 @@
 <h3 align="center">Senior Full Stack Developer | Python, Django, FastAPI, Node.js, React.js | AWS & GCP</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ylpo91s&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ylpo91s?label=Followers&style=flat" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=ylpo91s&label=Profile%20views&color=0e75b6&style=flat&base=500&abbreviated=true" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80" alt="Person coding" width="1000" />
 </div>
 
 ## 👨‍💻 About Me
