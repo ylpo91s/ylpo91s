@@ -2,7 +2,8 @@
 <h3 align="center">Senior Full Stack Developer | Python, Django, FastAPI, Node.js, React.js | AWS & GCP</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=1hanzla100&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true&base=10000" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ylpo91s&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ylpo91s?label=Followers&style=flat" alt="GitHub followers" />
 </div>
 
 ## 👨‍💻 About Me
@@ -44,12 +45,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=1hanzla100&theme=react&border=61dafb&hide_border=true" alt="GitHub streak stats" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=1hanzla100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub stats" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ylpo91s&theme=react&border=61dafb&hide_border=true" alt="GitHub streak stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ylpo91s&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1hanzla100&theme=dark&layout=compact&langs_count=20&hide_title=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylpo91s&theme=dark&layout=compact&langs_count=20&hide_title=true" alt="Top languages" />
 </div>
 
 ## 🤝 Let's Connect
