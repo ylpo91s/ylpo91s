@@ -13,10 +13,6 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Animated cat coding" width="700" />
-</div>
-
 I'm a **Software Engineer** passionate about designing and building reliable, scalable software that solves real-world problems.
 
 - 🚀 I build **scalable backend systems, RESTful APIs, and full-stack web applications** with a focus on performance, security, and maintainability.
