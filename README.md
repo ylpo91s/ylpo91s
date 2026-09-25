@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/26n6F9h9J0eEEgJ1u/giphy.gif" alt="Anime character coding" width="700" />
 </div>
 
-I'm a **Software Engineer** who lives in **Dubai, UAE**.
+I'm a **Software Engineer** building scalable backend systems and APIs. Specializing in **React.js, Node.js, and Java**.
 
 - 🔭 I’m currently working as a **Software Engineer** and contributing to both **frontend** and **backend** development for building web applications.
 - 🌱 I’m passionate about **AI** and currently exploring **machine learning** and **AI-powered solutions**.
