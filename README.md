@@ -13,6 +13,10 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26n6F9h9J0eEEgJ1u/giphy.gif" alt="Anime character coding" width="700" />
+</div>
+
 I'm a **Software Engineer** who lives in **Dubai, UAE**.
 
 - 🔭 I’m currently working as a **Software Engineer** and contributing to both **frontend** and **backend** development for building web applications.
