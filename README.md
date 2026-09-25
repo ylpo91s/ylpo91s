@@ -1,74 +1,68 @@
-<h1 align="center">Hi all, I'm Hanzla</h1>
-<h3 align="center">Senior Full Stack Developer | Python, Django, FastAPI, Node.js, React.js | AWS & GCP</h3>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ylpo91s&label=Profile%20views&color=0e75b6&style=flat&base=500&abbreviated=true" alt="Profile views" />
+  <h1>Hey 👋, I'm Mohamed Faisal.</h1>
+  <h3>Full Stack Developer | React.js, Node.js, Express.js | MySQL, MongoDB</h3>
 </div>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80" alt="Person coding" width="1000" />
+  <img src="https://komarev.com/ghpvc/?username=ylpo91s&label=Profile%20views&color=0e75b6&style=flat&base=1000&abbreviated=true" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26n6F9h9J0eEEgJ1u/giphy.gif" alt="Anime character coding" width="900" />
 </div>
 
 ## 👨‍💻 About Me
 
-- 💻 Senior Software Engineer with 5+ years of experience building scalable backend systems, APIs, and ETL pipelines.
-- ⚙️ Experienced with **Python, Django, FastAPI, Node.js, React.js**, and cloud platforms including **AWS and GCP**.
-- 📊 Background in data engineering with **Airflow, Apache Spark, Pandas, ClickHouse, and BigQuery**.
-- 🤖 Exploring AI engineering, LLM applications, and practical automation with Python.
-- 🌐 All of my projects are available at [1hanzla100.github.io](https://1hanzla100.github.io/).
-- 💬 Ask me about **Python, Django, FastAPI, React.js, ETL pipelines, AWS, and GCP**.
-- 📄 Learn more about my experience on [LinkedIn](https://www.linkedin.com/in/1hanzla100/).
+I'm a **Software Engineer** who lives in **Dubai, UAE**.
 
-## 🚀 Featured Projects
+- 🔭 I’m currently working as a **Software Engineer** and contributing to both **frontend** and **backend** development for building web applications.
+- 🌱 I’m passionate about **AI** and currently exploring **machine learning** and **AI-powered solutions**.
+- 🎯 My goal is to **build AI-powered products and applications** that make a real-world impact and solve meaningful problems.
+- ⚡ In my free time, I solve coding challenges, build side projects, and read tech articles to stay updated with industry trends.
 
-| Project | Description | Technologies |
-| --- | --- | --- |
-| [Developer Portfolio](https://github.com/1hanzla100/developer-portfolio) | Portfolio template for showcasing software development work and skills. | React, Next.js, TypeScript |
-| [Cloud Compute CCP](https://github.com/1hanzla100/cloud-compute-ccp) | Cloud computing project built with Python. | Python |
-| [Python WhatsApp Bot](https://github.com/1hanzla100/python-whatsapp-bot) | Build AI-powered WhatsApp bots with pure Python. | Python, AI |
-| [Atlas Mart](https://github.com/1hanzla100/Django-React-Marketplace) | OLX-like marketplace application. | Django, React.js |
-| [Yumniastic](https://github.com/1hanzla100/flutter-yumniastic) | Food delivery application with a Django backend. | Flutter, Django |
-| [Flutter Weather](https://github.com/1hanzla100/flutter-weather) | Weather application powered by the OpenWeatherMap API. | Flutter, Dart |
+---
 
-## 🛠️ Tools and Technologies
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" />
+</p>
+
+---
+
+## 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylpo91s&layout=compact&theme=dark" alt="Top languages" />
 </div>
 
-## 📊 GitHub Stats
+---
+
+## 🔥 My Stats
 
 <div align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ylpo91s&theme=react&border=61dafb&hide_border=true" alt="GitHub streak stats" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ylpo91s&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=ylpo91s&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub streak stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylpo91s&theme=dark&layout=compact&langs_count=20&hide_title=true" alt="Top languages" />
-</div>
+---
 
-## 🤝 Let's Connect
+## 🔗 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/1hanzla100/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mohamed-faisal-340977170/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
-  <a href="https://www.upwork.com/workwith/1hanzla100">
-    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
-  </a>
-  <a href="mailto:hanzla.tauqeer123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/__hanzla100/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="mailto:faisalmohamed816@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 </div>
